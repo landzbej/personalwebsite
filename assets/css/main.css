@@ -2155,6 +2155,7 @@ input[type="radio"] + label:before {
 
 .image.thumb {
   text-align: center;
+  padding: 20%;
 }
 
 .image.thumb:after {
