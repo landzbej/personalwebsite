@@ -132,6 +132,10 @@ a {
   padding: 0 0 1em;
 }
 
+#header h3 {
+  color: black;
+}
+
 #header .image.avatar {
   width: 11.25em;
 }
