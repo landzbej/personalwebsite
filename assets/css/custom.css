@@ -146,5 +146,8 @@ a {
 
 .nav {
   text-align: right;
-  padding-right: 10%;
+}
+
+.nav .image.avatar {
+  margin-right: 10%;
 }
