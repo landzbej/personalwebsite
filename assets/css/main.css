@@ -2132,7 +2132,6 @@ input[type="radio"] + label:before {
 .image {
   border-radius: 0.35em;
   border: 0;
-  padding: 20%;
   display: inline-block;
   position: relative;
 }
