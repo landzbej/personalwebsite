@@ -143,3 +143,8 @@ a {
 #footer .icons a {
   color: black;
 }
+
+.nav {
+  text-align: right;
+  margin: 10%;
+}
